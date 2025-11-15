@@ -1,0 +1,3 @@
+MiniLM is a small embedding model that is fast on CPU.
+Use Top-K retrieval to return the most similar chunks to a query.
+Each chunk should have metadata like source and line number.
