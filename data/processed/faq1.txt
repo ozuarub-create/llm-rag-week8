@@ -1,3 +1,0 @@
-Chroma is a local vector database used to store and search embeddings.
-Embeddings turn text into numbers so we can compare meaning.
-Cosine similarity helps find related text by angle distance.

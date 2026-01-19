@@ -1,0 +1,14 @@
+{
+  "data/processed/.txt": {
+    "checksum": "d41d8cd98f00b204e9800998ecf8427e",
+    "deleted": false
+  },
+  "data/processed/faq2.txt": {
+    "checksum": "49ede5bf4dbfe39268ea583d488b949e",
+    "deleted": true
+  },
+  "data/processed/faq1.txt": {
+    "checksum": "98f6da939088379947a0e6383e4a6681",
+    "deleted": true
+  }
+}
